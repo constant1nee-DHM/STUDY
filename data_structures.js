@@ -9,3 +9,4 @@ return sum;
 
 
 console.log('Result: ' + addition(num1, num2))
+console.log('Playing with a new branch...');
